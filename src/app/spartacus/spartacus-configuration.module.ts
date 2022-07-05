@@ -31,6 +31,7 @@ import {
       context: {
         currency: ['USD'],
         language: ['en'],
+        baseSite: ['electronics-spa'],
       },
     }),
     provideConfig(<I18nConfig>{
